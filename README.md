@@ -22,3 +22,4 @@ $ python Termux-Setup.py
 
 
 #Screenshot_20230324-052833.png
+![150628863-e161ecb3-06fe-4656-be20-9122ed533309](https://user-images.githubusercontent.com/118968969/227395496-e4680867-39cb-4ae0-ac5e-4848e69c36b0.gif)
