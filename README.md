@@ -2,7 +2,23 @@
 -Tools
 
 
-# Screenshots 
+# Installing 
+
+$ pkg update 
+
+$ pkg upgrade 
+
+$ pkg install python 
+
+$ pkg install git 
+
+$ git clone https://github.com/Termuxmasud404/Termux-Set-up-Tools.git
+
+$ cd Termux-Set-up-Tools
+
+$ python Termux-Setup.py
+
+
 
 
 #Screenshot_20230324-052833.png
